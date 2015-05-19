@@ -9,7 +9,7 @@ Equipment
 ---------
 ### Game Board
 
-10-row by 10-column and 6-row by 6-column boards are available. Other dimentions, including rectangular boards, may also be used, as long as there are an even number of rows and columns.
+10-row by 10-column and 6-row by 6-column boards are available. Other dimensions, including rectangular boards, may also be used, as long as there are an even number of rows and columns.
 
 ### Stones
 
